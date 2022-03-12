@@ -20,5 +20,4 @@ My GitHub projects include:
 
 
 <!---
-comments
 --->
